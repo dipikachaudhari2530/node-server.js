@@ -14,7 +14,7 @@ This is a simple Notes App built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-(Add your Netlify link here)
+https://github.com/dipikachaudhari2530/node-server.js.git
 
 ## Description
 This app allows users to create and manage notes. Data is stored in the browser using LocalStorage so it remains after refresh.
